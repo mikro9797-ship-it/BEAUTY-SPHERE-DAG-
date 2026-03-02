@@ -6,7 +6,7 @@
  * /bs — Beauty Sphere сайт (новая премиальная платформа)
  */
 
-import { createBrowserRouter } from 'react-router';
+import { createBrowserRouter } from 'react-router-dom';
 import { CatalogLayout } from './components/catalog-layout';
 import { CoverPage } from './components/cover-page';
 import { AboutPage } from './components/about-page';
